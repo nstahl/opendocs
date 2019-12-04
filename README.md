@@ -1,3 +1,3 @@
 # opendocs
 
-A prototype for open-source technical documentation.
+A prototype for badass open-source technical documentation.
